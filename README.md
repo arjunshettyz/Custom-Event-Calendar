@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Calendar Project
 
 This is a simple calendar project.
