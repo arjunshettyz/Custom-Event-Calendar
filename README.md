@@ -1,7 +1,7 @@
 
 # Calendar Project
 
-This is a simple calendar project.
+This is a calendar project.
 
 ## Setup
 
@@ -77,8 +77,3 @@ npm run build
 ```
 
 This will create a `dist` directory with the production build.
-
-## Special Instructions
-
->>>>>>> f20510175db4fb3e7febc04746532398acc1c03f
-If you are running on Windows and encounter issues, you might need to set the `ROLLUP_NO_NATIVE=1` environment variable before running the `dev` script. This is already included in the `dev` script in `package.json`, but if you run into problems, ensure this variable is set in your environment. 
