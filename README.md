@@ -1,7 +1,7 @@
 
 # Calendar Project
 
-This is a calendar project.
+This is a Custom-Event-Calendar project.
 
 ## Setup
 
